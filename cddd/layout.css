@@ -1,0 +1,123 @@
+*
+{color: rgb(92, 87, 87);}
+header
+{
+margin-top: 30px;
+margin-left: 30px;
+width: 95%;
+height: 200px;
+border-left:30px  green double;
+border-bottom: 2px gold solid;
+background-color: aquamarine;
+
+
+}
+
+nav
+{
+margin-top: 5px;
+margin-left: 30px;
+width: 95%;
+height: 40px;
+border-left:30px  green double;
+border-bottom: 2px gold solid;
+background-color: aquamarine;
+
+
+}
+
+aside
+{
+margin-top: 5px;
+margin-left: 30px;
+width: 25%;
+height: 550px;
+border-left:15px  green double;
+border-bottom: 2px rgb(50, 168, 89) solid;
+background-color: rgb(135, 122, 184);
+
+float: left;
+
+overflow: scroll;
+
+}
+
+main
+{
+margin-top: 5px;
+margin-left: 15px;
+width: 69%;
+height: 2500px;
+border-left:15px  green double;
+border-bottom: 2px rgb(50, 168, 89) solid;
+background-color: rgb(162, 175, 85);
+
+float: left;
+margin-bottom: 15px;
+}
+
+footer
+{
+
+
+margin-left: 30px;
+width: 95%;
+height: 20px;
+border-left:30px  green double;
+
+background-color: rgb(255, 127, 127);
+float: left;
+
+}
+
+#mid{
+
+width: 150px;
+height: 150px;
+border : 2px rgb(41, 190, 121) solid;
+background-color: rgba(219, 54, 54, 0.4);
+z-index: 1;
+position: fixed;
+top: 250px;
+left: 23%;
+
+}
+
+ul
+{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+ul li
+{
+
+    float: left;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+ul li a
+{
+   display: inline-block;
+   width: 85px;
+   height: 35px;
+   border-right: 20px darkgreen double;
+   border-left: 5px darkgreen double;
+    border: 2px darkgreen double;
+   text-decoration: none;
+   border-radius: 15px 000;
+
+
+}
+
+ul li a:hover
+{
+
+font-size: 1.9em;
+color: rgb(16, 88, 245);
+background-color: burlywood;
+
+}

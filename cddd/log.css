@@ -1,0 +1,73 @@
+*{background-color: rgb(255, 248, 248);}
+
+header h1{
+
+    margin-top: 15px;
+margin-left: 155px;
+width: 200px;
+height: 80px;
+color:rgb(100, 65, 226) ;
+
+text-align: left;
+
+background-image: url(../xampp/cddd/slogen.png); 
+
+}
+
+h2{
+
+   
+    width: 550px;
+    height: 149px;
+    margin-left: 100px;
+}
+
+nav{
+
+    margin-top: 5px;
+margin-left: 30px;
+width: 95%;
+height: 35px;
+background-color: rgb(110, 151, 44);
+
+}
+
+table{
+
+    margin-top: 15px;
+margin-left: 30px;
+width: 35%;
+height: 35px;
+text-align: center;
+}
+
+
+
+main{
+
+    
+margin-top: 20px;
+        width: 993px;
+    height: 200px;
+    background-color: gray;
+    border: 3px red solid;
+    
+    
+    
+}
+footer
+{
+
+margin-top: 25px;
+margin-left: 30px;
+margin-bottom: 500px;
+width: 98%;
+height: 28px;
+
+
+border-radius: 5px;
+background-color: rgb(255, 127, 127);
+float: left;
+text-align: center;
+
+}
